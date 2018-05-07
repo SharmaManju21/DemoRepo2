@@ -1,3 +1,4 @@
+//changed this sql file to be dynamic binding ready
 -- phpMyAdmin SQL Dump
 -- version 3.4.5
 -- http://www.phpmyadmin.net
