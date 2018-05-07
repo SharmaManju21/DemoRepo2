@@ -1,4 +1,5 @@
-import java.sql.Connection;
+//these changes are made by Manju to add the dynamic binding of the jdbc.
+import yan.sql.Connection;
 import java.sql.PreparedStatement;
 
 public class BookDao {
